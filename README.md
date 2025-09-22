@@ -30,7 +30,6 @@ Não são utilizados comandos SQL diretos (como `INSERT`, `SELECT`, `DELETE`), a
 ## 🧱 Estrutura
 
 - `modules/products` — Contém controller, service, DTOs e lógica de integração com procedures.
-- `src/test.conn.ts` — Script de teste de conexão com o banco.
 - `.env` — Variáveis de ambiente (host, porta, usuário, senha etc).
 - `databaseConfig` — Configuração central da conexão via `mssql`.
 
